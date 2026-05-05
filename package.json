@@ -1,0 +1,6 @@
+{
+  "name": "agent-galt-bot-de-analisis-de-sentimiento-moryo0c3",
+  "version": "1.0.0",
+  "description": "Proyecto de Galt [Gen27]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
